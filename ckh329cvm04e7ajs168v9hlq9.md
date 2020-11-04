@@ -1,6 +1,8 @@
 ## Why i choose HashNode over WordPress ?
 
-You guys might be wondering on why i choose [Hashnode] as a my blogging platform over [WordPress]. when i am hardcore [WordPress] developer.
+You guys might be wondering why I preferred [Hashnode] as my blogging platform over [WordPress], despite being a hardcore [WordPress] developer.
+
+
 
 
 ## Why ?
