@@ -1,4 +1,4 @@
-## How To Show Latest Blog Posts In Github Public Profile ?
+## How To Show Latest Hashnode Blog Posts In Github Public Profile?
 
 Hi There,
 
