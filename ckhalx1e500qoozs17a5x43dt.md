@@ -40,4 +40,4 @@ function change_url_without_reload( title, url ) {
 %[https://blog.demo.svarun.dev/how-to-update-url-parameters-in-javascript-without-reloading]
 
 ### Source Code
-%[https://github.com/varunsridharan/blog-demos/blob/main/how-to-update-url-parameters-in-javascript-without-reloading/index.html]
+https://github.com/varunsridharan/blog-demos/blob/main/how-to-update-url-parameters-in-javascript-without-reloading/index.html
