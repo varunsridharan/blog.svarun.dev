@@ -41,3 +41,11 @@ function change_url_without_reload( title, url ) {
 
 ### Source Code
 https://github.com/varunsridharan/blog-demos/blob/main/how-to-update-url-parameters-in-javascript-without-reloading/index.html
+
+---
+
+Questions or feedback?  Please comment below. 
+
+See all my projects at <a href=https://github.com/varunsridharan/>Github</a>.
+
+Follow me on <a href="https://twitter.com/varunsridharan2">Twitter for updates</a>
