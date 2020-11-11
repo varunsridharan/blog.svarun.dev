@@ -1,12 +1,12 @@
 ## Adding Jetbrains Apps To Context Menu
 
-I have been using [PHPStrom]. for a few years now. and over the years I found it very hard to open a project.  as I need to fire-up the [PHPStrom] App first then using the `File` menu I got to open the project. 
+I have been using [PHPStorm]. for a few years now. and over the years I found it very hard to open a project.  as I need to fire-up the [PHPStorm] App first then using the `File` menu I got to open the project. 
 
 For it, I was not that easy as I keep switching from 1 project to another and I like to have 1 project per window. _so I did not use the multiple project feature_
 
-And at the same time [PHPStrom] or any other app developed by [JetBrains] had no option to open a project via **Context Menu** (menu which displays when we press right-click)
+And at the same time [PHPStorm] or any other app developed by [JetBrains] had no option to open a project via **Context Menu** (menu which displays when we press right-click)
 
-So I search the internet and found a useful script that can add `PHPStrom` to the context menu in windows 
+So I search the internet and found a useful script that can add `PHPStorm` to the context menu in windows 
 
 ### BAT File
 ```bat
@@ -33,7 +33,7 @@ echo Adding folder entries
 Great now I got an option to add it context menu right? 
 ## NO 
 
-This script needs to be RAN again once we update the [PHPStrom] as **Jetbrains** Stores `exe` files inside of `version` folder something like this `PhpStorm\ch-0\201.6668.153\bin\phpstorm64.exe`
+This script needs to be RAN again once we update the [PHPStorm] as **Jetbrains** Stores `exe` files inside of `version` folder something like this `PhpStorm\ch-0\201.6668.153\bin\phpstorm64.exe`
 
 And still, I haven't figured a way to automatically find the new version. 
 
@@ -63,7 +63,7 @@ So I decided to create a Github Repository where I generated script for each and
 
 %[https://github.com/varunsridharan/jetbrains-context-menu]
 
-[PHPStrom]: https://www.jetbrains.com/phpstorm/
+[PHPStorm]: https://www.jetbrains.com/phpstorm/
 [JetBrains]: https://jetbrains.com/
 
 ---
