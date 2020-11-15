@@ -10,11 +10,12 @@
 
 This means websites will load a lot faster, but without advertisements. [Pi-Hole] also caches these queries, so responsiveness to commonly visited websites is improved. The main advantage with [Pi-Hole] is
 
-1. This can run on almost any hardware
-2. Lightweight requires just 2GB disk space & 512MB Ram
-2. Blocks Adds using the block list which is updated frequently 
-3. Blocks Telemetry Data
-4. Saves Your Internet bandwidth
+1. It can run on almost any hardware
+1. Lightweight; requires just 2GB disk space & 512MB Ram
+1. Blocks Ads using the block list which is updated frequently
+1. Blocks unwanted sites and malware
+1. Blocks Telemetry Data
+1. Saves Your Internet bandwidth
 
 ---
 
