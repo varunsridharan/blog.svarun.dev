@@ -122,7 +122,7 @@ This is the final screen which shows some important information. such as
 
 Make sure write them down
 
-![Finished](https://s2.do-spaces.com/2020/Nov/15/1605405948-127.jpg)
+![Finished](https://s2.do-spaces.com/2020/Nov/15/1605409240-125.jpg)
 
 ---
 
