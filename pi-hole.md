@@ -8,7 +8,7 @@
 # How it works?
 [Pi-hole] functions as an internal, private DNS server for your network. For many home users, this service is already running on your router, but your router doesn’t know where advertisements are — but Pi-hole does. Pi-hole will intercept any queries for known ad-serving domains and deny them access, so ads won’t be downloaded.
 
-This means websites will load faster but without advertisements. [Pi-hole] also caches these queries, so responsiveness to commonly visited websites can also be noticed. & the main advantage with [Pi-Hole] is
+This means websites will load a lot faster, but without advertisements. [Pi-Hole] also caches these queries, so responsiveness to commonly visited websites is improved. The main advantage with [Pi-Hole] is
 
 1. This can run on almost any hardware
 2. Lightweight requires just 2GB disk space & 512MB Ram
