@@ -39,11 +39,11 @@ Primarily [Pi-Hole] was designed for [RaspberryPi]. Soon it was extended to almo
 3. 1 Static IP
 
 ## Installation
-Running the below cmd will get you started with the installation 
+Running the below command will get you started with the installation
 
 `curl -sSL https://install.pi-hole.net | bash` 
 
-once you entered that cmd. it will download the install script and do some install prechecks once that is finished
+The command will download the install script and perform some checks prior to installation.
 
 ### Step 1
 Just press `OK`
