@@ -28,7 +28,8 @@ You can use one `#` up to `######` six for different heading sizes.
 #### Heading 5
 ###### Heading 6
 ```
-![Headings](https://s2.do-spaces.com/2020/Nov/14/1605357103-158.jpg)
+#### Github Output
+> ![Headings](https://s2.do-spaces.com/2020/Nov/14/1605357103-158.jpg)
 
 ---
 
@@ -57,7 +58,8 @@ This line has an `inline` code block
 >>> Unlimited Level Of Blockquote Nesting
 ```
 
-![Text Styling](https://s2.do-spaces.com/2020/Nov/14/1605358824-169.jpg)
+#### Github Output
+>  ![Text Styling](https://s2.do-spaces.com/2020/Nov/14/1605358824-169.jpg)
 
 ---
 
@@ -109,7 +111,8 @@ List using `-`
 
 ```
 
-![Working With Lists](https://s2.do-spaces.com/2020/Nov/14/1605358056-163.jpg)
+#### Github Output
+>  ![Working With Lists](https://s2.do-spaces.com/2020/Nov/14/1605358056-163.jpg)
 
 ---
 
@@ -127,7 +130,8 @@ adding images in markdown is fairly easy by just adding `![Alt Text](Image URL)`
 ```
 > Yes Github Supports HTML Title Tag In Images
 
-![Working With Images](https://s2.do-spaces.com/2020/Nov/14/1605358698-126.jpg)
+#### Github Output
+>  ![Working With Images](https://s2.do-spaces.com/2020/Nov/14/1605358698-126.jpg)
 
 ---
 
@@ -140,7 +144,9 @@ You can create tables by assembling a list of words and dividing them with hyphe
 | Content from cell 1 | Content from cell 2 |
 | Content in the first column | Content in the second column |
 ```
-![Working With Tables](https://s2.do-spaces.com/2020/Nov/14/1605359151-146.jpg)
+
+#### Github Output
+>  ![Working With Tables](https://s2.do-spaces.com/2020/Nov/14/1605359151-146.jpg)
 
 ### Table Column Alignment
 In markdown, each table column text can be assigned `left`,` right, or `center` alignment using the below options
@@ -174,7 +180,9 @@ In markdown, each table column text can be assigned `left`,` right, or `center` 
 | Content | I am left alinged | Content |
 | Content | I am left alinged | Content |
 ```
-![Working With Tables](https://s2.do-spaces.com/2020/Nov/14/1605359591-116.jpg)
+
+#### Github Output
+>  ![Working With Tables](https://s2.do-spaces.com/2020/Nov/14/1605359591-116.jpg)
 
 ---
 
