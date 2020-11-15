@@ -124,6 +124,11 @@ Make sure write them down
 
 ![Finished](https://s2.do-spaces.com/2020/Nov/15/1605409240-125.jpg)
 
+
+Once you are logged into the admin panel you will see something like below
+
+![Pi-Hole Admin](https://s2.do-spaces.com/2020/Nov/15/1605409363-123.jpg)
+
 ---
 
 You can find more information about setting up Pi-hole on the [GitHub repository](https://github.com/pi-hole/pi-hole/).
