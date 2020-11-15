@@ -20,7 +20,8 @@ This means websites will load a lot faster, but without advertisements. [Pi-Hole
 ---
 
 # How to install?
-Primarily [Pi-Hole] was designed on [RaspberryPi] but then, later on, it got support for almost every Linux. this can also be deployed on cloud server provides like [Digitalocean],[Vultr] .etc
+Primarily [Pi-Hole] was designed for [RaspberryPi]. Soon it was extended to almost every Linux distribution. It can be deployed on any cloud server provider like [Digitalocean], [Vultr], etc.
+
 
 | Distribution | Architecture |
 | --- | --- |
@@ -30,11 +31,11 @@ Primarily [Pi-Hole] was designed on [RaspberryPi] but then, later on, it got sup
 | Fedora | ARM / x86_64 |
 | CentOS | x86_64 |
 
-> I will be using [Digitalocean] Droplet to show how to install it. as I don't have any hardware left free in my home
+> I am using a [Digitalocean] Droplet to demonstrate how to install it, since I don't have any free hardware left to spare at home
 
 ## Prerequisites
-1. 2GB - 4GB Disk Space
-2. 512MB Ram
+1. 2GB Disk Space (4GB preferred)
+2. 512MB RAM
 3. 1 Static IP
 
 ## Installation
@@ -46,14 +47,17 @@ once you entered that cmd. it will download the install script and do some insta
 
 ### Step 1
 Just press `OK`
+
 ![Welcome Screen](https://s2.do-spaces.com/2020/Nov/15/1605403309-196.jpg)
 
 ### Step 2
 Just press `OK` Again
+
 ![Free & Open Source](https://s2.do-spaces.com/2020/Nov/15/1605403325-139.jpg)
 
 ### Step 3 
 In this step, it says that [Pi-Hole] is a server and it requires a STATIC IP address to work properly
+
 ![Static IP Notice](https://s2.do-spaces.com/2020/Nov/15/1605403376-115.jpg)
 
 ### Step 4 
