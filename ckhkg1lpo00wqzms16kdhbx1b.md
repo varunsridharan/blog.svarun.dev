@@ -30,7 +30,7 @@ These are the steps you would follow, to set up the workflow environment for a r
 
 Since this blog article is specifically about Github's actions, I will skip going into the details of items 1 and 2 above, and focus on the actual action itself.
 
-If you would like to know about steps 1 and 2, you can learn them from this blog: https://blog.gvasquez.dev/how-to-setup-github-actions-on-your-github-repository 
+If you would like to know about steps 1 and 2, you can learn them from  [How to setup GitHub Actions on your Github repository.](https://blog.gvasquez.dev/how-to-setup-github-actions-on-your-github-repository ) by @[Graham Vasquez](@gv14982)
 
 ---
 
