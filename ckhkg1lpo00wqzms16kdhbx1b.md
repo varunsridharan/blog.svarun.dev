@@ -1,4 +1,4 @@
-## What is Github action?
+## What is Github Action?
 
 **The Github Action is a process that allows you to automate your software development workflow by making use of the built-in CI/CD mechanism**. CI/CD (Continuous Integration, Continuous Deployment, and Delivery) is a process that reduces the repetitive process of testing and deploying software. It can be used to trigger automated tasks that help to build, test, and deploy your code. 
 
