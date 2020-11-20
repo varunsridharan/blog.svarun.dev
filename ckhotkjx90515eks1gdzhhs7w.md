@@ -49,7 +49,7 @@ _Please note that Github does not check or install any dependencies. The action 
 ---
 
 # Simple Github Action
-We will be creating a Github action which will greet user and sets a output variable which will provide current timestamp.
+We will be creating a Github action which will greet user and sets a output variable containing current timestamp.
 
 ## Creating the Action Metadata file
 Create a new file **`action.yml`** in the `simple-nodejs-action` directory with the following example code: 
