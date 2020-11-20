@@ -25,14 +25,14 @@ This package provides a set of functions to interact with Github’s REST API. R
 
 _Please note that Github does not check or install any dependencies. The action code you create must be full packaged containing all dependencies within._
 
-> To package your Github action, please install the `[@vercel/ncc]` NPM package, which is a simple CLI for compiling a Node.js module into a single file, together with all its dependencies, gcc-style.
+> To package your Github action, please install the [`@vercel/ncc`](https://github.com/vercel/ncc) NPM package, which is a simple CLI for compiling a Node.js module into a single file, together with all its dependencies, gcc-style.
 
-> After installing the `[@vercel/ncc]` package, you must include a `prepare` statement in your package.json, which ensures that the compiler runs automatically each time you update the dependencies. Make sure to run `npm run prepare` before pushing to the repository each time.
+> After installing the [`@vercel/ncc`](https://github.com/vercel/ncc) package, you must include a `prepare` statement in your package.json, which ensures that the compiler runs automatically each time you update the dependencies. Make sure to run `npm run prepare` before pushing to the repository each time.
 
-```javascript
+```json
 "scripts": {
     "prepare": "ncc build ./src/index.js -o dist --source-map --license licenses.txt"
-  },
+},
 ```
 
 
