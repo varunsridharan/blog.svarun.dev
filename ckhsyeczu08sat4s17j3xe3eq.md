@@ -1,4 +1,4 @@
-## How to publish a Github action
+## How to publish a Github action To Github Marketplace
 
 You can publish the actions you have created to the GitHub Marketplace and share your actions with the GitHub community.
 
