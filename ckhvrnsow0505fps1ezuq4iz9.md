@@ -154,7 +154,7 @@ If you need support with using Pi-hole or want to chat with the Pi-hole communit
 ## Honest Feedback
 In my family, I am the only person who can actually differentiate between genuine content/advertisement but other members of my family including my parents can't able to understand which is an advertisement. and in mobile everything is cluttered with adds every app that you installed has advertisement which is irrelevant &  inappropriate. 
 
-That's when I decided to use [Pi-Hole] 2 years ago. and got to say it really made a big difference. it did the best to blog all irrelevant &  inappropriate advertisement in the whole local network. and it saved me almost 20% of my bandwidth usage.
+That's when I decided to use [Pi-Hole] 2 years ago. and got to say it really made a big difference. it did the best to block all irrelevant &  inappropriate advertisement in the whole local network. and it saved me almost 20% of my bandwidth usage.
 
 I urge people to give it a try and see the actual difference.
 
